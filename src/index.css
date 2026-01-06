@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Dein Custom Body Style für den Award-Look */
+body {
+  @apply bg-[#050505] flex items-center justify-center min-h-screen;
+}
